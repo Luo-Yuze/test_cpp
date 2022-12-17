@@ -9,5 +9,7 @@ int main(){
     cout << a + b << endl;
     printf("hello world\n");
     system("pause");
+
+    int d = 6;
     return 0;
 }
