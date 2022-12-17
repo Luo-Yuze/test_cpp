@@ -11,5 +11,6 @@ int main(){
     system("pause");
 
     int d = 6;
+    d = 7;
     return 0;
 }
