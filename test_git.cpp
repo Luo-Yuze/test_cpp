@@ -12,5 +12,6 @@ int main(){
 
     int d = 6;
     d = 7;
+    d = 8;
     return 0;
 }
